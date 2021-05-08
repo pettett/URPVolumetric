@@ -1,0 +1,14 @@
+{
+	"name": "stolencheese.urp.volumetric",
+	"version": "0.1.1",
+	"displayName": "URP Volumetric",
+	"description": "Directional Volumetric lighting for URP",
+	"unity": "2021.1",
+   "keywords": [
+	  "volumetric"
+	],
+	"author": {
+	  "name": "StolenCheese",
+	  "url": "https://github.com/StolenCheese"
+	}
+  }
